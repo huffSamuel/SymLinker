@@ -25,4 +25,5 @@ dotnet run SymLinker.Console.dll
 **Currently untested on Linux and OSX**
 
 ### License
+---
 SymLinker is released under the MIT license and is free for use with proper attribution
