@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymLinker", "SymLinker\SymLinker.csproj", "{302344A3-D143-4BA2-AE2C-77A5D173385C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymLinker.TestConsole", "SymLinker\SymLinker.TestConsole.csproj", "{302344A3-D143-4BA2-AE2C-77A5D173385C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SymLinker.Linker", "SymLinker.Linker\SymLinker.Linker.csproj", "{495E6067-5AB6-4C37-AD73-CF478387B2EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{302344A3-D143-4BA2-AE2C-77A5D173385C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{302344A3-D143-4BA2-AE2C-77A5D173385C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{302344A3-D143-4BA2-AE2C-77A5D173385C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{495E6067-5AB6-4C37-AD73-CF478387B2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495E6067-5AB6-4C37-AD73-CF478387B2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495E6067-5AB6-4C37-AD73-CF478387B2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495E6067-5AB6-4C37-AD73-CF478387B2EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
